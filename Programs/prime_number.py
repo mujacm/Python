@@ -19,6 +19,6 @@ if num > 1:
 # if input number is less than
 # or equal to 1, it is not prime
 else:
-   print(num,"is not a prime number")
-   print("This was your first PR")
+   print(num,"the number you have entered is not a prime number")
+   print("This was your first Prime number")
 
