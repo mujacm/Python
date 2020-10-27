@@ -1,7 +1,7 @@
 # Python program to check if year is a leap year or not
 
 #To get year input from the user
-year = int(input("Enter a year:"))
+year = int(input("Enter a year: "))
 
 if (year % 4) == 0:
    if (year % 100) == 0:
