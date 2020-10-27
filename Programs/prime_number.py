@@ -20,5 +20,5 @@ if num > 1:
 # or equal to 1, it is not prime
 else:
    print(num,"is not a prime number")
-   print("This was your first PR")
+   
 
