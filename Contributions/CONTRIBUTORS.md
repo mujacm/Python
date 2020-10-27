@@ -16,4 +16,4 @@ Add your name and link to your GitHub account below after you have contributed t
 3. Abhirup Chakraborty [GitHub Account](https://www.github.com/yoloabhi)
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 5. Puneet Arora(Changed the input from pre-defined to user input for variable: year in leap_year.py)
-6. Puneet Arora(Changed the input from pre-defined to user defined for variable: num and edited the comments to be more readable in prime_number.py)
+6. Puneet Arora(Changed the input from pre-defined to user input for variable: num and edited the comments to be more readable in prime_number.py)
