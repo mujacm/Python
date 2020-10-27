@@ -17,3 +17,4 @@ Add your name and link to your GitHub account below after you have contributed t
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 
 5. Pratham Kumar (Changed the design of main file and added this line in this file)
+6. Pratham Kumar (Changed the design of main file and added this line in this file)
