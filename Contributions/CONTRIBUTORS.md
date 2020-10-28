@@ -16,4 +16,4 @@ Add your name and link to your GitHub account below after you have contributed t
 3. Abhirup Chakraborty [GitHub Account](https://www.github.com/yoloabhi)
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 
-Mehul - changed prime number and leap year
+Mehul - changed 4 python programs
