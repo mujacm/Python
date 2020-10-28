@@ -1,5 +1,6 @@
 # Python program for implementation of Bubble Sort 
-  
+
+
 def bubbleSort(arr): 
     n = len(arr) 
   
@@ -23,4 +24,4 @@ bubbleSort(arr)
   
 print ("Sorted array is:") 
 for i in range(len(arr)): 
-    print ("%d" %arr[i]),
+    print ("%d" %arr[i])

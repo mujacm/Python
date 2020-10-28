@@ -52,7 +52,7 @@ class LinkedList:
 	def printList(self): 
 		temp = self.head 
 		while(temp): 
-			print temp.data, 
+			print (temp.data,end=' ') 
 			temp = temp.next
 
 
@@ -67,12 +67,10 @@ llist.push(3)
 llist.push(2) 
 llist.push(1) 
 
-print "Given linked list"
+print ("Given linked list")
 llist.printList() 
 
 llist.reverse() 
 
-print "\nReverse linked list"
+print ("\nReverse linked list")
 llist.printList() 
-
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007) 
